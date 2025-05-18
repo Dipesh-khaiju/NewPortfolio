@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "नमस्ते",
+     "description": "👋 म दिपेश खाइजू हुँ। म एक उत्साही फुल स्ट्याक डेभलपर हुँ जससँग Python, React, Node.js, Docker, र Azure प्रयोग गरेर स्केलेबल वेब एप्स बनाउने व्यावहारिक अनुभव छ। म लिनक्स वातावरणमा सहज छु, र म Git, MongoDB, र Redis सँग आत्मविश्वासका साथ काम गर्दछु। मलाई React, Redux Toolkit, र Material UI वा Tailwind जस्ता आधुनिक UI लाइब्रेरीहरू प्रयोग गरेर Figma डिजाइनहरूलाई प्रतिक्रियात्मक UI मा परिणत गर्न मन पर्छ। फ्रन्टएन्ड वा ब्याकएन्ड जे भए पनि, मलाई समस्याहरू समाधान गर्न र स्पष्ट, ममत-योग्य कोड लेख्न मन पर्छ। सधैं सिक्दै, सधैं निर्माण गर्दै!",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "मेरो बारेमा",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
       }
     },
     "projects": [
