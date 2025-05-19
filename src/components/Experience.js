@@ -28,6 +28,19 @@ class Experience extends Component {
             </Badge>
           );
         });
+
+        // Determine which icon to use based on technologies or mainTech
+        let iconClass = "fab fa-react experience-icon";
+
+        // Check if Python is in mainTech or technologies
+        const hasPython =
+          mainTechnologies.some((tech) => tech.includes("Python")) ||
+          technologies.some((tech) => tech === "Python");
+
+        if (hasPython) {
+          iconClass = "fab fa-python experience-icon";
+        }
+
         return (
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -37,7 +50,7 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            icon={<i className={iconClass}></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>

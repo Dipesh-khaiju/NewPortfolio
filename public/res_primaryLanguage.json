@@ -11,98 +11,119 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
+      "title": "Real-time Chat App",
+      "startDate": "2023",
       "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/ChatApp/Login.png",
+        "images/portfolio/ChatApp/xalfal.png"
       ],
-      "url": "",
+      "url": "https://github.com/Dipesh-khaiju/Xalfal",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
-    },
-    {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
+          "class": "devicon-react-original colored",
           "name": "React"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
+          "class": "devicon-express-original ",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-tailwindcss-plain colored",
+          "name": "Tailwind CSS"
+        },
+
+        { "class": "devicon-mongodb-plain colored", "name": "MongoDB" },
+        { "class": "devicon-socketio-original colored", "name": "Socket.io" },
+
+        { "class": "devicon-nodejs-plain colored", "name": "Node.js" }
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "Ecommerce App",
+      "startDate": "2023",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/KhaijuShop/image.png",
+        "images/portfolio/KhaijuShop/image copy.png"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/Dipesh-khaiju/ecomm_khaijushop",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-original colored",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain colored",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-tailwindcss-plain colored",
+          "name": "Tailwind CSS"
+        },
+        {
+          "class": "devicon-express-original colored",
+          "name": "Express"
+        },
+        { "class": "devicon-firebase-plain colored", "name": "Firebase" }
+      ]
+    },
+    {
+      "title": "Weather App",
+      "startDate": "2022",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/Weather/image.png",
+        "images/portfolio/Weather/img1.png"
+      ],
+      "url": "https://github.com/Dipesh-khaiju/weatherapp",
+      "technologies": [
+        {
+          "class": "devicon-react-original colored",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain colored",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-tailwindcss-plain colored",
+          "name": "Tailwind CSS"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
         }
       ]
     }
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
+      "company": "DatumMd",
+      "title": "Full Stack Developer",
+      "years": "05.2024 - present",
+      "mainTech": ["React, Python"],
       "technologies": [
+        "Flask",
         "REST API",
-        "RxJS",
+        "React",
         "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "MongoDb",
+        "Git",
+        "Redux Toolkit",
+        "Docker",
+        "Python",
+        "Azure Deployments",
+        "Redis"
+
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "company": "DatumMd",
+      "title": "Front-End Intern",
+      "years": "05.2024 - 02.2024",
+      "mainTech": ["React"],
+      "technologies": ["React", "Tailwind CSS", "MongoDb", "JavaScript", "Linux","Git","Figma","Redux Toolkit"]
     }
   ]
 }
