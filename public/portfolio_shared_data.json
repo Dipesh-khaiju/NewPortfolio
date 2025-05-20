@@ -10,7 +10,7 @@
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/khai_dipesh/",
           "class": "fab fa-instagram"
         }
       ],
@@ -64,8 +64,8 @@
           "level": "85"
         },
         {
-          "name": "AWS",
-          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "Azure",
+          "class": "devicon-azure-plain",
           "level": "65"
         },
         {

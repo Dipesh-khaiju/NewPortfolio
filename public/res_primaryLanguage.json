@@ -13,7 +13,7 @@
     {
       "title": "Real-time Chat App",
       "startDate": "2023",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. A feature-rich chat application built with Socket.io for real-time communication. Users can sign up, log in, and engage in instant messaging with live updates. Implemented private and group chat functionality with a scalable backend using Node.js and Express, and styled the frontend with Tailwind CSS. MongoDB is used to store chat history and user data.",
       "images": [
         "images/portfolio/ChatApp/Login.png",
         "images/portfolio/ChatApp/xalfal.png"
@@ -42,7 +42,7 @@
     {
       "title": "Ecommerce App",
       "startDate": "2023",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "description": "Personal project for study subject.A full-featured ecommerce platform where users can browse products, add items to their cart, and simulate purchases. Integrated eSewa payment gateway for secure online transactions. Built with React for the frontend, Express and Firebase for the backend services, and Tailwind CSS for a modern, responsive UI. This project showcases secure authentication, cart management, and payment processing.u",
       "images": [
         "images/portfolio/KhaijuShop/image.png",
         "images/portfolio/KhaijuShop/image copy.png"
@@ -71,7 +71,7 @@
     {
       "title": "Weather App",
       "startDate": "2022",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "description": "One of the first apps I was working on for my learning purposes.A lightweight weather application that provides real-time weather updates and forecasts using the OpenWeather API. Developed with React and Tailwind CSS to ensure a smooth and responsive UI. This project focused on handling API requests, managing asynchronous data flow, and delivering clean user experience across devices.",
       "images": [
         "images/portfolio/Weather/image.png",
         "images/portfolio/Weather/img1.png"
@@ -115,7 +115,6 @@
         "Python",
         "Azure Deployments",
         "Redis"
-
       ]
     },
     {
@@ -123,7 +122,16 @@
       "title": "Front-End Intern",
       "years": "05.2024 - 02.2024",
       "mainTech": ["React"],
-      "technologies": ["React", "Tailwind CSS", "MongoDb", "JavaScript", "Linux","Git","Figma","Redux Toolkit"]
+      "technologies": [
+        "React",
+        "Tailwind CSS",
+        "MongoDb",
+        "JavaScript",
+        "Linux",
+        "Git",
+        "Figma",
+        "Redux Toolkit"
+      ]
     }
   ]
 }

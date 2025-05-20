@@ -1,8 +1,7 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+import pythonIcon from "@iconify/icons-logos/python";
 
 class About extends Component {
   render() {
@@ -26,22 +25,28 @@ class About extends Component {
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
                   <img
-                    height="250px"
+                    height="275px"
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
-                  <Icon
-                    icon={angularIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={vueIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
+                  <div style={{ display: "flex", justifyContent: "center" }}>
+                    <Icon
+                      icon={reactIcon}
+                      style={{ fontSize: "400%", margin: "9% 5%" }}
+                    />
+                    <img
+                      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+                      style={{
+                        width: "48px",
+                        height: "48px",
+                        margin: "7% 5%",
+                      }}
+                    />
+                    <Icon
+                      icon={pythonIcon}
+                      style={{ fontSize: "400%", margin: "9% 5%" }}
+                    />
+                  </div>
                 </span>
               </div>
             </div>

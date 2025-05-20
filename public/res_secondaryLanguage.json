@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "नमस्ते",
-     "description": "👋 म दिपेश खाइजू हुँ। म एक उत्साही फुल स्ट्याक डेभलपर हुँ जससँग Python, React, Node.js, Docker, र Azure प्रयोग गरेर स्केलेबल वेब एप्स बनाउने व्यावहारिक अनुभव छ। म लिनक्स वातावरणमा सहज छु, र म Git, MongoDB, र Redis सँग आत्मविश्वासका साथ काम गर्दछु। मलाई React, Redux Toolkit, र Material UI वा Tailwind जस्ता आधुनिक UI लाइब्रेरीहरू प्रयोग गरेर Figma डिजाइनहरूलाई प्रतिक्रियात्मक UI मा परिणत गर्न मन पर्छ। फ्रन्टएन्ड वा ब्याकएन्ड जे भए पनि, मलाई समस्याहरू समाधान गर्न र स्पष्ट, ममत-योग्य कोड लेख्न मन पर्छ। सधैं सिक्दै, सधैं निर्माण गर्दै!",
+      "description": "👋 म दिपेश खाइजू हुँ। म एक उत्साही फुल स्ट्याक डेभलपर हुँ जससँग Python, React, Node.js, Docker, र Azure प्रयोग गरेर स्केलेबल वेब एप्स बनाउने व्यावहारिक अनुभव छ। म लिनक्स वातावरणमा सहज छु, र म Git, MongoDB, र Redis सँग आत्मविश्वासका साथ काम गर्दछु। मलाई React, Redux Toolkit, र Material UI वा Tailwind जस्ता आधुनिक UI लाइब्रेरीहरू प्रयोग गरेर Figma डिजाइनहरूलाई प्रतिक्रियात्मक UI मा परिणत गर्न मन पर्छ। फ्रन्टएन्ड वा ब्याकएन्ड जे भए पनि, मलाई समस्याहरू समाधान गर्न र स्पष्ट, ममत-योग्य कोड लेख्न मन पर्छ। सधैं सिक्दै, सधैं निर्माण गर्दै!",
       "section_name": {
         "about": "मेरो बारेमा",
         "projects": "Projects",
@@ -11,105 +11,124 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Real-time Chat App",
+        "startDate": "2023",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. A feature-rich chat application built with Socket.io for real-time communication. Users can sign up, log in, and engage in instant messaging with live updates. Implemented private and group chat functionality with a scalable backend using Node.js and Express, and styled the frontend with Tailwind CSS. MongoDB is used to store chat history and user data.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/ChatApp/Login.png",
+          "images/portfolio/ChatApp/xalfal.png"
         ],
-        "url": "",
+        "url": "https://github.com/Dipesh-khaiju/Xalfal",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
+            "class": "devicon-react-original colored",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
+            "class": "devicon-express-original ",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-tailwindcss-plain colored",
+            "name": "Tailwind CSS"
+          },
+          { "class": "devicon-mongodb-plain colored", "name": "MongoDB" },
+          { "class": "devicon-socketio-original colored", "name": "Socket.io" },
+          { "class": "devicon-nodejs-plain colored", "name": "Node.js" }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Ecommerce App",
+        "startDate": "2023",
+        "description": "Personal project for study subject.A full-featured ecommerce platform where users can browse products, add items to their cart, and simulate purchases. Integrated eSewa payment gateway for secure online transactions. Built with React for the frontend, Express and Firebase for the backend services, and Tailwind CSS for a modern, responsive UI. This project showcases secure authentication, cart management, and payment processing.u",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/KhaijuShop/image.png",
+          "images/portfolio/KhaijuShop/image copy.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Dipesh-khaiju/ecomm_khaijushop",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original colored",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-tailwindcss-plain colored",
+            "name": "Tailwind CSS"
+          },
+          {
+            "class": "devicon-express-original colored",
+            "name": "Express"
+          },
+          { "class": "devicon-firebase-plain colored", "name": "Firebase" }
+        ]
+      },
+      {
+        "title": "Weather App",
+        "startDate": "2022",
+        "description": "One of the first apps I was working on for my learning purposes.A lightweight weather application that provides real-time weather updates and forecasts using the OpenWeather API. Developed with React and Tailwind CSS to ensure a smooth and responsive UI. This project focused on handling API requests, managing asynchronous data flow, and delivering clean user experience across devices.",
+        "images": [
+          "images/portfolio/Weather/image.png",
+          "images/portfolio/Weather/img1.png"
+        ],
+        "url": "https://github.com/Dipesh-khaiju/weatherapp",
+        "technologies": [
+          {
+            "class": "devicon-react-original colored",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-tailwindcss-plain colored",
+            "name": "Tailwind CSS"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
+        "company": "DatumMd",
+        "title": "Full Stack Developer",
+        "years": "05.2024 - present",
+        "mainTech": ["React, Python"],
         "technologies": [
+          "Flask",
           "REST API",
-          "RxJS",
+          "React",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "MongoDb",
+          "Git",
+          "Redux Toolkit",
+          "Docker",
+          "Python",
+          "Azure Deployments",
+          "Redis"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
+        "company": "DatumMd",
+        "title": "Front-End Intern",
+        "years": "05.2024 - 02.2024",
+        "mainTech": ["React"],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
+          "React",
+          "Tailwind CSS",
+          "MongoDb",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Linux",
+          "Git",
+          "Figma",
+          "Redux Toolkit"
         ]
       }
     ]
