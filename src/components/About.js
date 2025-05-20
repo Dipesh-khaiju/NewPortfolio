@@ -41,6 +41,7 @@ class About extends Component {
                         height: "48px",
                         margin: "7% 5%",
                       }}
+                      alt="express icon"
                     />
                     <Icon
                       icon={pythonIcon}
