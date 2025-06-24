@@ -35,7 +35,7 @@ class About extends Component {
                       style={{ fontSize: "400%", margin: "9% 5%" }}
                     />
                     <img
-                      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
                       style={{
                         width: "48px",
                         height: "48px",
@@ -43,6 +43,7 @@ class About extends Component {
                       }}
                       alt="express icon"
                     />
+
                     <Icon
                       icon={pythonIcon}
                       style={{ fontSize: "400%", margin: "9% 5%" }}
